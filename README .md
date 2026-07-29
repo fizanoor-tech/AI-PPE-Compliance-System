@@ -16,26 +16,22 @@ An AI-powered computer vision tool that automatically detects Personal Protectiv
 ### Home Page
 Upload an image directly from the browser — no setup required on the user's end.
 
-![Home Page](<img width="1268" height="743" alt="Screenshot 2026-07-29 184232" src="https://github.com/user-attachments/assets/3c99724d-159d-4974-b315-a4ef41988cec" />
-)
+<img width="1268" height="743" alt="Screenshot 2026-07-29 184232" src="https://github.com/user-attachments/assets/3c99724d-159d-4974-b315-a4ef41988cec" />
 
 ### Uploaded Image
 The system accepts a worksite photo and prepares it for analysis.
 
-![Uploaded Image](<img width="1077" height="833" alt="Screenshot 2026-07-29 184320" src="https://github.com/user-attachments/assets/26f7c2b6-3136-4628-b736-1662e9d83a1e" />
-)
+<img width="1077" height="833" alt="Screenshot 2026-07-29 184320" src="https://github.com/user-attachments/assets/26f7c2b6-3136-4628-b736-1662e9d83a1e" />
 
 ### Detection Result
 Each worker is detected and boxed individually — **green** for compliant, **red** for a violation — with the specific missing item labeled directly on the image.
 
-![Detection Result](<img width="751" height="733" alt="Screenshot 2026-07-29 184405" src="https://github.com/user-attachments/assets/cca9f6cd-b1f3-4c20-a419-fa9fca7a693d" />
-)
+<img width="751" height="733" alt="Screenshot 2026-07-29 184405" src="https://github.com/user-attachments/assets/cca9f6cd-b1f3-4c20-a419-fa9fca7a693d" />
 
 ### Compliance Results
 A structured, per-worker breakdown of compliance status, including exactly which PPE item is missing, plus a downloadable annotated image.
 
-![Compliance Results](<img width="1073" height="747" alt="Screenshot 2026-07-29 184428" src="https://github.com/user-attachments/assets/46e1d644-1092-4487-89b6-d82ccac234fd" />
-)
+<img width="1073" height="747" alt="Screenshot 2026-07-29 184428" src="https://github.com/user-attachments/assets/46e1d644-1092-4487-89b6-d82ccac234fd" />
 
 ---
 
